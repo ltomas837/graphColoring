@@ -18,13 +18,16 @@ Jbotsim is a library from the resarch laboratory of Bordeaux. It offers a GUI fo
 
 Simply click on the run button from IntellIJ once a configuration done - the two main classes are `Main.java` and `CycleMain.java`.
 
-**Note:** Please note that `CycleMain.java` only works for graph called *cycles*.
+**Note:** Please note that `CycleMain.java` only works for graph called *cycles* (https://en.wikipedia.org/wiki/Cycle_graph).
 
 Let's have an example from `Main.java`. Once you run the configuration, you will see this window.
-<img src="https://github.com/ltomas837/graphColoring/blob/main/initialWindow.png">
+<img src="https://github.com/ltomas837/graphColoring/blob/main/screenshots/initialWindow.png">
 
 Click then on the window to plot a graph: a vertex appears at each click (click again on the vertex to make it disappearing), and two vertices suffiently close make an edge. You can change the position of a vertex by dragging and dropping the vertex.
-Once the desired graph is shaped, right click on the window and click on the action you want. See below an example of result: the graph includes 37 vertices, a maximum degree of 6 and the coloration find includes 7 colors.
-<img src="https://github.com/ltomas837/graphColoring/blob/main/coloredGraph.png">
+Once the desired graph is shaped, right click on the window and click on the action you want. 
+<img src="https://github.com/ltomas837/graphColoring/blob/main/screenshots/startRunning.png">
+
+See below an example of result: the graph includes 37 vertices, a maximum degree of 6 and the coloration find includes 7 colors.
+<img src="https://github.com/ltomas837/graphColoring/blob/main/screenshots/coloredGraph.png">
 
 
