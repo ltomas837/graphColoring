@@ -2,7 +2,7 @@
 
 Finding a minimal coloration - a coloration of the graph with a minimal number of colors - is known to be a NP-complete problem, and every graph can be colored with one more color than the maximum vertex degree (see https://en.wikipedia.org/wiki/Graph_coloring).
 
-This Java project is an polynomial implementation finding a graph coloration with a number of coloration lower or equal than one more colo than the maximum vertex degree of the graph. 
+This Java project is an polynomial implementation finding a graph coloration with a number of coloration lower or equal than one more color than the maximum vertex degree of the graph. 
 
 This project has been done with IntellIJ. The project directory is `project`.
 
