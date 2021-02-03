@@ -29,7 +29,7 @@ Once the desired graph is shaped, right click on the window and click on the act
 
 <img src="https://github.com/ltomas837/graphColoring/blob/main/screenshots/startRunning.png">
 
-See below an example of result: the graph includes 37 vertices, a maximum degree of 6 and the coloration find includes 7 colors.
+See below an example of result: the graph includes 37 vertices, a maximum degree of 5 and the coloration find includes 5 colors.
 
 <img src="https://github.com/ltomas837/graphColoring/blob/main/screenshots/coloredGraph.png">
 
