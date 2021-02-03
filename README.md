@@ -24,7 +24,7 @@ Let's have an example from `Main.java`. Once you run the configuration, you will
 <img src="https://github.com/ltomas837/graphColoring/blob/main/screenshots/initialWindow.png">
 
 Click then on the window to plot a graph: a vertex appears at each click (click again on the vertex to make it disappearing), and two vertices suffiently close make an edge. You can change the position of a vertex by dragging and dropping the vertex.
-Once the desired graph is shaped, right click on the window and click on the action you want. 
+Once the desired graph is shaped, right click on the window and click on the action you want. Click on `start execution` for the program to run till the end and display the result found.  
 <img src="https://github.com/ltomas837/graphColoring/blob/main/screenshots/startRunning.png">
 
 See below an example of result: the graph includes 37 vertices, a maximum degree of 6 and the coloration find includes 7 colors.
